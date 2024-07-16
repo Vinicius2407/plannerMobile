@@ -20,7 +20,7 @@ No console, verifique qual metodo deseja para fazer a inicialização do projeto
 
 - [Emulador Android](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [Simulador iOS](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Expo Go](https://expo.dev/go), uma Sandbox ilimitado para usar através do seu celular.
 
 Qualquer duvida ou se quiser fazer parte do desenvolvimento, só entrar em contato.
 Sera um prazer.
